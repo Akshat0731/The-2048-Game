@@ -18,78 +18,78 @@ h1{
     box-shadow:0 0 32px black; 
 }
 
-.tiles{
+div{
     height:6.25rem;
     width:6.25rem;
     background-color:#C5B39D;
     border: 10px solid #A99A88;
 }
 
-.tile-2{
+.tiles-2{
     background-color: white;
     color:black;
 }
 
-.tile-4{
+.tiles-4{
     background-color: rgba(167, 154, 138, 0.836);
     color:black;
 }
 
-.tile-8{
+.tiles-8{
     background-color: orange;
     color:white;
 }
 
-.tile-16{
+.tiles-16{
     background-color: orangered;
     color:white;
 }
 
-.tile-32{
+.tiles-32{
     background-color: pink;
     color:white;
 }
 
-.tile-64{
+.tiles-64{
     background-color: palevioletred;
     color:white;
 }
 
-.tile-128{
+.tiles-128{
     background-color: rgb(229, 229, 104);
     color:white;
 }
 
-.tile-256{
+.tiles-256{
     background-color: yellow;
     color:white;
 }
 
-.tile-512{
+.tiles-512{
     background-color: rgb(158, 158, 26);
     color:white;
 }
 
-.tile-1024{
+.tiles-1024{
     background-color: cyan;
     color:black;
 }
 
-.tile-2048{
+.tiles-2048{
     background-color: darkcyan;
     color:black;
 }
-.tile-4096{
+.tiles-4096{
     background-color: blue;
     color:white;
 }
 
-.tile-8192{
+.tiles-8192{
     background-color: darkblue;
     color:white;
 }
 
-.tile-high{
+.tiles-high{
     background-color: blueviolet;
     color:violet;
 }
