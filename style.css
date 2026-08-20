@@ -23,6 +23,8 @@ div{
     width:6.25rem;
     background-color:#C5B39D;
     border: 10px solid #A99A88;
+    text-align:center;
+    font-size: 80px;
 }
 
 .tiles-2{
