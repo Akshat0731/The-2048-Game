@@ -1,6 +1,11 @@
+
 body{
     text-align:center;
     background-color: #FAF8EF;
+}
+
+p{
+    text-align: none;
 }
 h1{
     color:brown;
@@ -64,12 +69,12 @@ div{
 
 .tiles-256{
     background-color: yellow;
-    color:white;
+    color:black;
 }
 
 .tiles-512{
     background-color: rgb(158, 158, 26);
-    color:white;
+    color:grey;
 }
 
 .tiles-1024{
@@ -94,4 +99,32 @@ div{
 .tiles-high{
     background-color: blueviolet;
     color:violet;
+}
+
+.tiles-16,
+.tiles-32 {
+    font-size: 65px;
+}
+
+.tiles-64,
+.tiles-128 {
+    font-size: 55px;
+}
+
+.tiles-256,
+.tiles-512 {
+    font-size: 45px;
+}
+
+.tiles-1024,
+.tiles-2048 {
+    font-size: 35px;
+}
+
+.tiles-4096,.tiles-8192{
+    font-size:25px;
+}
+
+.tiles-high{
+    font-size:10px;
 }
